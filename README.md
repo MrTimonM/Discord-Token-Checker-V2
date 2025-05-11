@@ -25,6 +25,13 @@ A beautiful and modern web application to check the validity of Discord tokens. 
 
 ## How to Use
 
+### Method 1: Local Usage (Easiest)
+1. Download or clone this repository
+2. Extract all files into the same folder
+3. Open `index.html` in Chrome or any modern browser
+4. Start using the tool!
+
+### Method 2: GitHub Pages Hosting
 1. Fork this repository to your GitHub account
 2. Enable GitHub Pages on your fork
 3. Access the website through your GitHub Pages URL
