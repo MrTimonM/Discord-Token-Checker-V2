@@ -13,6 +13,16 @@ A beautiful and modern web application to check the validity of Discord tokens. 
 - ⚡ Live progress tracking
 - 📋 Clipboard support
 
+## Screenshots
+
+### Main Interface
+![Main Interface](https://prnt.sc/6k3StcJQq8Oo)
+*Clean and modern interface with drag & drop support*
+
+### Progress Tracking
+![Progress Tracking](https://prnt.sc/4fXaLZ6c4uBi)
+*Real-time progress tracking with detailed statistics*
+
 ## How to Use
 
 1. Fork this repository to your GitHub account
