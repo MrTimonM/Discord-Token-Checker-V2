@@ -16,11 +16,11 @@ A beautiful and modern web application to check the validity of Discord tokens. 
 ## Screenshots
 
 ### Main Interface
-![Main Interface](https://prnt.sc/6k3StcJQq8Oo)
+![Main Interface](1.png)
 *Clean and modern interface with drag & drop support*
 
 ### Progress Tracking
-![Progress Tracking](https://prnt.sc/4fXaLZ6c4uBi)
+![Progress Tracking](2.png)
 *Real-time progress tracking with detailed statistics*
 
 ## How to Use
